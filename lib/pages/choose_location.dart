@@ -16,7 +16,7 @@ class _ChooseLocationState extends State<ChooseLocation> {
     WorldTime(url: 'Africa/Nairobi', location: 'Nairobi', flag: 'nairobi.png'),
     WorldTime(
         url: 'America/New_York', location: 'New York', flag: 'nairobi.png'),
-    WorldTime(url: 'America/Chicago', location: 'Chicago', flag: 'nairobi.png'),
+    WorldTime(url: 'America/Chicago', location: 'Chicago', flag: 'nairobi.jpg'),
     WorldTime(url: 'Asia/Seoul', location: 'Seoul', flag: 'nairobi.png'),
     WorldTime(url: 'Asia/Tashkent', location: 'Tashkent', flag: 'nairobi.png'),
   ];
